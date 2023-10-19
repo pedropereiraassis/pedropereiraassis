@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there! I'm Pedro Pereira Asis - Backend Developer! Nice to meet you! 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropereiraassis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pedropereiraassis/pedropereiraassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
