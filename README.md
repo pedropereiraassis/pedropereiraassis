@@ -1,4 +1,4 @@
-## Hi there! I'm Pedro Pereira Assis - Backend Developer! Nice to meet you! 👋
+## I'm Pedro, software developer 🤙
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropereiraassis&show_icons=true&theme=dark&hide_rank=true&show=reviews,prs_merged)
 
